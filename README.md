@@ -34,7 +34,9 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 ---
 
 ### 📊 Dashboard Overview
-![](visuals/Dashboard_overview.png)
+<p align="center">
+  <img src="powerbi/screenshots/overview.png" width="800">
+</p>
 
 ---
 
