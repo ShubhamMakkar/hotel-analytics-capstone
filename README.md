@@ -28,8 +28,7 @@
 
 ## 🖥️ Power BI Dashboard Snapshots
 
-Below are the key pages of Power BI report.  
-Each page focuses on a different business area of Amazon’s E-commerce operations.
+Below are the snapshots of all Power BI reports, showcasing different insights across the hotel dataset.
 
 ---
 
@@ -64,7 +63,3 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 
 ### ⭐ Ratings Report  
 ![](power_bi/visuals/Ratings_Report.png)
-
----
-
-> 📁 *Note: The `visuals` folder contains all 13 Power BI pages (1 overview + 12 detailed reports). Only the key pages are shown above for preview.*
