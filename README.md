@@ -37,33 +37,33 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 ![](power_bi/visuals/Overview.png)
 ---
 
-### 👥 Bookings Report  
-![](power_bi/visuals/Bookings Report 1.png)
+### 📦 Bookings Report 1 
+![](power_bi/visuals/Bookings_Report_1.png)
 
 ---
 
-### 📦 Orders Report  
-![](visuals/orders_report_1.png)
+### 📦 Bookings Report 2
+![](power_bi/visuals/Bookings_Report_2.png)
 
 ---
 
-### 🛍️ Products Report  
-![](visuals/products_report_1.png)
+### 🏨 Hotels Report  
+![](power_bi/visuals/Hotels_Report.png)
 
 ---
 
 ### 💳 Transactions Report  
-![](visuals/transaction_report_1.png)
+![](power_bi/visuals/Transactions_Report.png)
 
 ---
 
-### 🔁 Refunds Report  
-![](visuals/refund_report_1.png)
+### 👤 Users Report  
+![](power_bi/visuals/Users_Report.png)
 
 ---
 
-### ⭐ Feedbacks Report  
-![](visuals/feedback_report_1.png)
+### ⭐ Ratings Report  
+![](power_bi/visuals/Ratings_Report.png)
 
 ---
 
