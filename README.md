@@ -37,8 +37,8 @@ Each page focuses on a different business area of Amazon’s E-commerce operatio
 ![](power_bi/visuals/Overview.png)
 ---
 
-### 👥 Customers Report  
-![](visuals/customers_report_1.png)
+### 👥 Bookings Report  
+![](power_bi/visuals/Bookings Report 1.png)
 
 ---
 
